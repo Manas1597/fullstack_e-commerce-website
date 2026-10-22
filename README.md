@@ -1,4 +1,4 @@
-# Full-Stack E-Commerce Website
+
 # Full Stack E-Commerce Website
 A complete full-stack e-commerce web application built with React, TypeScript, Vite, Node.js, Express, PostgreSQL, and Drizzle ORM.
 
